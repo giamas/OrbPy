@@ -8,4 +8,4 @@ gravitational
 poliastro==0.17
 skyfield==1.46
 jplephem
-orbital
+orbitalpy
