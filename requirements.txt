@@ -5,7 +5,7 @@ pandas
 astropy==5.3 # (31-12-2023: ver 6.0.0 dispnibile ma non supportata da Poliastro)
 astroquery
 gravitational
-poliastro
+poliastro #sembra che verrà dismesso a breve!
 skyfield
 jplephem
 orbitalpy
