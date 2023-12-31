@@ -8,6 +8,6 @@ gravitational
 poliastro #sembra che verrà dismesso a breve!
 skyfield
 jplephem
-orbitalpy
+orbital
 numba
 plotly
